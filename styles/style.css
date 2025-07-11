@@ -168,3 +168,32 @@ main{
     margin-top: 20px;
     border-radius: 30px;
 }
+
+/* Let’s Get In Touch Section */
+.touch-btn{
+    width: 400px;
+}
+.in-touch{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 75px 150px 0px 150px;
+    gap: 100px;
+    padding-bottom: 50px;
+}
+.in-touch-title{
+    font-weight: bold;
+    font-size: 80px;
+}
+form label{
+    display: block;
+}
+input, textarea {
+      width: 400px;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 16px;
+      box-sizing: border-box;
+      background-color: white;
+}
