@@ -19,6 +19,11 @@
     background-color: brown;
 }
 
+/* header background image */
+header{
+    background-image: url(../images/Hero-bg.png);
+}
+
 /* Navbar section */
 nav{
     display: flex;
@@ -49,5 +54,5 @@ header section p{
     color: #252432;
 }
 header section button{
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
