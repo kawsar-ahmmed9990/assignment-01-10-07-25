@@ -148,3 +148,23 @@ main{
     margin: 75px 150px 30px 150px;
 }
 
+/* Extra part section */
+.extra-part{
+    text-align: center;
+    background-color: white;
+    margin: 75px 150px 30px 150px;
+    padding: 50px;
+    border-radius: 20px;
+}
+.extra-heading{
+    font-weight: bold;
+    font-size: 50px;
+    margin: 0px;
+}
+.extra-subtitle{
+    color: #000000;
+}
+.extra-image{
+    margin-top: 20px;
+    border-radius: 30px;
+}
