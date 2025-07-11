@@ -34,3 +34,20 @@ nav p{
     font-weight: bold;
     font-size: 34px;
 }
+
+/* Banner section */
+header section{
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+    width: 905px;
+    margin: 0 auto;
+    /* margin-bottom: 150px; */
+}
+header section p{
+    font-weight: bold;
+    font-size: 65px;
+    color: #252432;
+}
+header section button{
+    margin-bottom: 150px;
+}
