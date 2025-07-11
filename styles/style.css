@@ -197,3 +197,31 @@ input, textarea {
       box-sizing: border-box;
       background-color: white;
 }
+
+/* Footer section */
+footer{
+    background-color: white;
+}
+.footer-container{
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 100px;
+}
+.footer-logo{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+    margin: 0px;
+    padding-top: 50px;
+}
+.footer-subtitle{
+    color: #8987A1;
+}
+.footer-link{
+    padding: 20px;
+    color: #8987A1;
+}
+footer a{
+    text-decoration: none;
+}
